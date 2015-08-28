@@ -142,4 +142,7 @@
     <string name="package_lock_task_title">Pin app</string>
     <string name="lock_app_not_enabled">Screen pinning is not enabled in security settings</string>
     <string name="app_filter_running_title">Running only</string>
+    <string name="menu">Menu</string>
+    <string name="menu_help">Menu</string>
+
 </resources>
